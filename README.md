@@ -2,7 +2,7 @@
 抖音直播视频流下载
 
 # 使用方法
-1.选择一个抖音博主的首页（如：https://www.douyin.com/user/MS4wLjABAAAAl-ajXnFBvKVVNy6MxtR_lXLiyFI3dyDVQHjNcfs5P2M）
+1.选择一个抖音博主的首页（如：https://www.douyin.com/user/MS4wLjABAAAAl-ajXnFBvKVVNy6MxtR_lXLiyFI3dyDVQHjNcfs5P2M ）
 
 2.终端运行python main.py -add 首页的地址
 
